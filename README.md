@@ -1,2 +1,1 @@
-# superflix
-a simple website 
+# Superflix
